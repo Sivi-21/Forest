@@ -1,0 +1,4 @@
+opencv-python
+numpy
+imutils
+# python "count trees.py" --image forest3.jpeg --out result.png --method blob 
